@@ -1,0 +1,6 @@
+{
+    "require-dev": {
+        "fzaninotto/faker": "^1.6",
+        "turkeyfried/us-state-lists": "^1.0"
+    }
+}
